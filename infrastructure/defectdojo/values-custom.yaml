@@ -1,0 +1,10 @@
+# DD image tag
+tag: 2.16.1
+# Primary hostname of instance
+host: defectdojo.158.160.166.81.sslip.io
+# Django params
+django:
+  ingress:
+    enabled: true
+    ingressClassName: "nginx"
+    activateTLS: false
