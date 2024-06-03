@@ -1,5 +1,7 @@
 ## DevSecOps в облачном CI/CD
 
+[Ссылка на сертификат](certificate.md)
+
 <details>
 <summary>1. Создание рабочего места в облаке</summary>
 
